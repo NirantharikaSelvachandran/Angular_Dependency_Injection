@@ -1,0 +1,19 @@
+table{
+    border: 1px solid black;
+    width: 1000px;   
+    border-radius: 10px; 
+}
+
+th{
+    text-align: center;
+    font-size: 20px;
+}
+
+td{
+    font-size: 18px;
+}
+
+tr, th, td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
